@@ -31,13 +31,14 @@ The minimum required functionality consists of a simple reactive behaviour, allo
 find objects. For an average mark the behaviour should be able to successfully find some objects at
 unknown locations. Further extensions are possible to improve your mark in this assessment, also to
 enable you to find all objects. Possible extensions to the system may include (but are not limited to):
-● An enhanced perception system – in-built colour appearance learning, use of additional visual
+
+  *  An enhanced perception system – in-built colour appearance learning, use of additional visual
 cues (e.g. edges), combination of RGB and Depth features, etc.;
 
-● Exploiting maps and other structural features in the environment or more clever search
+ * Exploiting maps and other structural features in the environment or more clever search
 strategies.
 
-● Utilising other existing ROS components that are available (like localisation, mapping, etc)
+  * Utilising other existing ROS components that are available (like localisation, mapping, etc)
 The software component must be implemented in Python and be supported by use of ROS to
 communicate with the robot. 
 
