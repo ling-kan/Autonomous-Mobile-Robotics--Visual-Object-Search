@@ -6,7 +6,7 @@
 
 ----------
 
-#CMP3103 Autonomous-Mobile-Robotics
+# CMP3103 Autonomous-Mobile-Robotics
 
 Your task is to implement a behaviour that enables the robot in simulation to find a total of 4 objects
 distributed in a simulated environment. You need to utilise the robot’s sensory input and its actuators
