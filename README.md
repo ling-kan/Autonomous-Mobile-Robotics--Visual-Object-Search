@@ -50,13 +50,3 @@ communicate with the robot.
 
 * [LO3] implement and empirically evaluate intelligent control strategies, by programming
 autonomous mobile robots to perform complex tasks in dynamic environments
-
-----------
-
-
-## Built With
-
-
-
-
-
